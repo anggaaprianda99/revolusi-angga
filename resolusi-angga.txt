@@ -3,5 +3,6 @@ Saya akan berubah melalui :
   - Kemudian dilanjutin dengan road map nya front end
   - Selanjutnya cari tutorial di Youtube
   - Dari Html dan css
+  - dan belajar boostrap
   - Kemudian Javascript
-  - dan php
+  - kemudian dilanjutkan dengan git
